@@ -72,6 +72,3 @@ The grade depends on how efficient the program's sorting process is.
   * 1 point for less than 11500
 
 Validating the project requires at least 80/100.
-
----
-Made by mcombeau: mcombeau@student.42.fr | LinkedIn: [mcombeau](https://www.linkedin.com/in/mia-combeau-86653420b/) | Website: [codequoi.com](https://www.codequoi.com)
