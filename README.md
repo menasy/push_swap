@@ -34,7 +34,7 @@ ARG="3 0 9 2 -1"; ./push_swap $ARG | ./checker $ARG
 
 You can also simply ```make test3```, ```make test5```, ```make test100``` or ```make test500``` to quickly test the program with that number of values to sort.
 
-You can test the programme by generating random numbers from this site [Random number genrrator:]([https://github.com/o-reo/push_swap_visualizer](https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php)):
+You can test the programme by generating random numbers from this site [Random number genrrator]([https://github.com/o-reo/push_swap_visualizer](https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php)):
 
 ## Push_Swap Rules and Grading
 
