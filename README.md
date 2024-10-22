@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png" alt="Push_swap 42 project badge"/>
 </p>
-<p align="center">Radix Sort Algorithm>
+<h2 align="center">Radix Sort</h2>
+<p align="center">
   <a href="https://youtu.be/LyRWppObda4?si=skkBht5Xhqg1iyGa" target="_blank">
     <img src="https://img.youtube.com/vi/LyRWppObda4/0.jpg" alt="Radix Algorithm Video" width="600">
   </a>
