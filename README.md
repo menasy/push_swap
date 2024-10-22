@@ -1,10 +1,16 @@
-# push_swap
+# Push-Swap
 
 <p align="center">
   <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png" alt="Push_swap 42 project badge"/>
 </p>
 
-push_swap is a 42 school algorithm project where we must sort a given list of random numbers with a limited set of instructions, using the lowest possible number of actions.
+<h1 align="center">Push-Swap</h1>
+<p align="center">
+  <a href="https://youtu.be/LyRWppObda4?si=skkBht5Xhqg1iyGa" target="_blank">
+    <img src="https://img.youtube.com/vi/LyRWppObda4/0.jpg" alt="Radix Algorithm Video" width="600">
+  </a>
+</p>
+Push_swap is a 42 school algorithm project where we must sort a given list of random numbers with a limited set of instructions, using the lowest possible number of actions.
 
 ## StatusGrade: 90%
 
